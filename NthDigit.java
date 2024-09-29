@@ -1,3 +1,4 @@
+//this code tells us the value of nth bi of the number entered
 import java.util.Scanner;
 public class NthDigit {
     public static void main(String[] args) {
