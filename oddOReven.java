@@ -1,3 +1,5 @@
+//this program checks whether the number is odd or even using the and operator 
+//if we and any number with 1 we get the number itself 
 import java.util.Scanner;
 public class oddOReven {
     public static void main(String[] args) {
